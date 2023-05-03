@@ -18,7 +18,7 @@ SPI communication was used to play on two devices at the same time, either on Li
 
 Language: C
 Compiler: gcc
-Gaming environments: Linux-PC, Debian-RaspberryPi, Embebeded-PIC
+Gaming environments: Linux-PC, Debian-RaspberryPi, Embedded-PIC
 
 This project consists of the development of a game based on the mythical Space Racer, where it has the ability to be played simultaneously by two devices connected serially through the SPI communication protocol.
 The winner is the one who scores more points in the game time.
